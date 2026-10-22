@@ -2,7 +2,7 @@
 
 ### 🚀 À propos de moi
 - 🔭 Je travaille actuellement sur **Mon Portfolio**
-- 💬 N'hésite pas à me solliciter pour **Des projets HTML CSS JS**
+- 💬 N'hésite pas à me solliciter pour **des projets de design ou bien en HTML CSS JS**
 - 📫 Pour me joindre : **marcos.sosa.silva002@gmail.com**
 
 
