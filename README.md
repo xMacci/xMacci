@@ -16,12 +16,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&theme=radial)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&theme=radial)
-
----
-
 ### 🔗 Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TON-LINKEDIN](https://www.linkedin.com/in/marcos-sosa-silva/?isSelfProfile=true))
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ton-site.com](https://xmacci-web.github.io/Portfolio/index.html))
